@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ChHSkdC3YDDjgsIN95CbiDfHVnwqjdUTQcBi/kErsxchfapZwuE7qCfQXCsocPmkkak91yBLnO2DYvGXiOyzqw==",
+  "success": true,
+  "projectFilePath": "/Users/laurenlira/Coding_BusinessandSchool/VisualBasic/HelloWorld/HelloWorld/HelloWorld/HelloWorld.fsproj",
+  "expectedPackageFiles": [
+    "/Users/laurenlira/.nuget/packages/fsharp.core/7.0.200/fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
